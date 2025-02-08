@@ -19,7 +19,7 @@ function App() {
       <h1>Vite + aditya</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 3)}>
-          count is {count}
+          countsss is {count}
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
